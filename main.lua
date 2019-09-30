@@ -65,7 +65,7 @@ end
 
 function love.load(arg)
 
-  love.window.setTitle( "MADOU" )
+	love.window.setTitle( "MADOU" )
 	--, borderless=true
 	print(TILE_SIZE*(15 + 4)*CANVAS_SCALE, TILE_SIZE*15*CANVAS_SCALE +( 6*5 + 2) *CANVAS_SCALE)
 	--love.window.setMode(TILE_SIZE*(15 + 4)*CANVAS_SCALE, TILE_SIZE*15*CANVAS_SCALE +( 6*5 + 2) *CANVAS_SCALE, {highdpi= true, resizable=false, borderless=true})
