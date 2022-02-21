@@ -3,7 +3,7 @@ function love.conf(t)
   t.releases = {
     title = "MADOU",              -- The project title (string)
     package = nil,            -- The project command and package name (string)
-    loveVersion = "0.11.2",        -- The project LÖVE version
+    loveVersion = "0.11.3",        -- The project LÖVE version
     version = "0.1",            -- The project version
     author = "piano_no_renshu",             -- Your name (string)
     email = nil,              -- Your email (string)
