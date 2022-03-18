@@ -1,12 +1,17 @@
 ### https://raw.github.com/github/gitignore/74643fe2c8a8ca02384f6367be2393c00cf8cd24/Global/macOS.gitignore
 
+/madou/game*
+/madou/love.js
+/madou/love.wasm
+/Madou.love
+
 # General
 .DS_Store
 .AppleDouble
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
 
 # Thumbnails
 ._*
