@@ -18,3 +18,4 @@ cp ./template/love.css ./dist/love.css
 cp ./template/index.html ./dist/index.html
 rm -r ./dist/theme 
 ```
+love.jsのerror箇所のコメントアウトを行った。
