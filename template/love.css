@@ -1,3 +1,6 @@
+html {
+  font-size: 10px;
+}
 body {
   width: 100vw;
   height: 100vh;
@@ -6,7 +9,6 @@ body {
   align-items: center;
   justify-content: center;
 }
-
 .container, #loadingCanvas, #canvas {
   width: 100vmin;
   height: 100vmin;
